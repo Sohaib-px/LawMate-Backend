@@ -1,0 +1,3 @@
+Legal Document
+
+This is the core legal content required by the controller validation block.

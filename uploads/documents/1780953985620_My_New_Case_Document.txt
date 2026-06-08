@@ -1,0 +1,3 @@
+My New Case Document
+
+This is the core legal content that will be written into the txt file physically.
